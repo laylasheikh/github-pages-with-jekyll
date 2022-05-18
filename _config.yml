@@ -1,12 +1,13 @@
 title: layla!
 theme: minima
 author: Layla Sheikh
-email: your-email@domain.com
+email: laylasheikh9@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   View Layla's work and read about her upcoming projects :)
 
 # social links
 instagram_username: laylasheikh
 github_username:  laylasheikh
+tiktok_username: laylasheikh
 
 show_excerpts: true # set to false to remove excerpts on the homepage
