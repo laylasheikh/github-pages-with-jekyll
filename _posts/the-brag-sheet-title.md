@@ -1,5 +1,6 @@
 ---
 title: "the brag sheet"
+date: 2022-06-06
 ---
 Things I am proud of:
 1. Winner of the NCWIT award
