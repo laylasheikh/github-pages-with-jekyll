@@ -1,5 +1,6 @@
 ---
-title: "the first one"
-date: 2022-05-17
+title: "cake"
+date: 2022-06-18
 ---
-Hey! This is my first blog post!
+Hello! I like to make cakes! Here is a picture of a cake I made!
+
